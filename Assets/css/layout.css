@@ -1,0 +1,8 @@
+main, header, footer{
+    display: flex;
+
+    padding: 1em;
+    flex-direction: column;
+    align-items:stretch; 
+
+}

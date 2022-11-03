@@ -1,0 +1,11 @@
+.effekt {
+    /* font-size: 66px; */
+    line-height: 5rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    background: url(/Assets/images/Backgrund-titel.png) 0 0 / cover no-repeat;
+    color: #de466c;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 0;   
+ }

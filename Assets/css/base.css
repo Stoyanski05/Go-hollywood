@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--light-color);
+    
+    color: var(--base-color);
+    font-family: var(--accent-font);
+}
+.bg-full{
+    background-image: url(/Assets/images/PosterDone.png);
+    min-height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+ 
+}
+h1{
+    color: var(--accent-color);
+    font-family: var(--accent-font);
+    font-size: 7.5rem;
+    margin: -50px auto 0;
+    text-align: center;
+}
+.mini-text{
+    font-size: 3rem;
+    line-height: 3rem;
+    text-shadow: 3px 15px 15px rgba(0, 0, 0, 0.5)
+
+}
+
+.Midlle-text{
+    font-size: 9.5rem;
+    line-height: 5rem;
+    text-shadow: 3px 15px 15px rgba(0, 0, 0, 0.5)
+
+
+}
+
+.Lastline-text{
+    font-size: 7.75rem;
+    line-height: 7rem;
+    text-shadow: 3px 15px 15px rgba(0, 0, 0, 0.5)
+
+}
+
+.H,.A{
+    font-size: 15rem;
+}
+
+
+
+h3{
+    font-family: 'Big Shoulders Display', cursive; 
+    width: 68%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 24px;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+h2{
+    line-height: 2rem;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: var(--base-color);
+}
+
+a:hover{
+    color: var(--accent-color);
+}
+
+ul{
+    list-style: none;
+}
+
+.projekt-tekst{
+    color: white;
+}

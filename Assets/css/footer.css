@@ -1,0 +1,10 @@
+footer h2{
+    font-family: 'Big Shoulders Display', cursive; 
+    width: 68%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 24px;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-weight: 300;
+}
